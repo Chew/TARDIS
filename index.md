@@ -24,5 +24,6 @@ TARDIS is a CraftBukkit plugin that allows you to create a TARDIS that lets you 
 
 [Check out some **FAQs**](faqs.html)
 
-![TARDIS](images/docs/artronrecharging.jpg)
+[Feel like Contributing?](contributing)
 
+![TARDIS](images/docs/artronrecharging.jpg)
